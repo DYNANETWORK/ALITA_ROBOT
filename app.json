@@ -9,9 +9,9 @@
     "alita",
     "alita_robot"
   ],
-  "repository": "https://github.com/DivideProjects/Alita_Robot",
-  "website": "https://t.me/DivideProjects",
-  "success_url": "https://t.me/DivideProjects",
+  "repository": "https://github.com/SUKHPAL443/Alita_Robot",
+  "website": "https://t.me/SUKHPAL443",
+  "success_url": "https://t.me/SUKHPAL443",
   "env": {
     "BOT_TOKEN": {
       "description": "Your telegram bot token, get from @Botfather in telegram.",
@@ -46,7 +46,7 @@
     "SUPPORT_GROUP": {
       "description": "Your Telegram support group chat username where user's can contact in case of a problem..",
       "required": true,
-      "value": "DivideProjects"
+      "value": "MAMBA_X_SUPPORT"
     },
     "MESSAGE_DUMP": {
       "description": "Event logs channel where bot will send updates.",
@@ -70,7 +70,7 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Channel where bot uodates will be posted!",
-      "value": "AlitaUpdates"
+      "value": "MAMBA_X_SUPPORT"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user IDs who you want to assign as sudo users.",
