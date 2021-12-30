@@ -35,4 +35,4 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group!
 
 ## Powered By
 
-[![CYBER EAGLE NETWORK](https://img.shields.io/badge/CYBER-EAGLE-NETWORK-green?style=for-the-badge&logo=appveyor)](https://t.me/CYBER_EAGLE_NETWORK)
+[![CYBER EAGLE NETWORK](https://img.shields.io/badge/CYBER-EAGLE-green?style=for-the-badge&logo=appveyor)](https://t.me/CYBER_EAGLE_NETWORK)
