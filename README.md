@@ -25,7 +25,7 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group!
 
 
 ## Special Thanks to
-******** [![MAMBA SUPPORT](https://img.shields.io/badge/MAMBA-X-SUPPORT-green?style=for-the-badge&logo=appveyor)](https://t.me/MAMBA_X_SUPPORT)
+******** [![MAMBA SUPPORT](https://img.shields.io/badge/MAMBA_X_SUPPORT-blue?style=for-the-badge&logo=appveyor)](https://t.me/MAMBA_X_SUPPORT)
 
 
 ### Copyright & License
